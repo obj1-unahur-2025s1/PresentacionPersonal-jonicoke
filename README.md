@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Jonathan Jorge Giacomini
+- Vivo en Isidro Casanova
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Soy boxeador
+- Estoy estudiando la tecnicatura en Programación
