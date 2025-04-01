@@ -6,8 +6,9 @@
 ### Datos Personales
 - Mi nombre es: Jonathan Jorge Giacomini
 - Vivo en Isidro Casanova
+- Tengo 20 años
 
 
 ### Otra Información
-- Soy boxeador
 - Estoy estudiando la tecnicatura en Programación
+- Soy boxeador
